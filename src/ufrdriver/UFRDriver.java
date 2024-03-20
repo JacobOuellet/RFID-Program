@@ -1,6 +1,6 @@
 /*
 UFR Driver
-Atuhor @ Jacob Ouellet
+Author @ Jacob Ouellet
 Last edited: 4/26/2018
 Version 0.0.1
 Purpose: The purpose of this program is to connect the gui built by Zac Everett called infogui and the ufr caller built by Kevin Lukitsch. 
