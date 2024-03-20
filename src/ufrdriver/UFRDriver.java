@@ -4,7 +4,7 @@ Author @ Jacob Ouellet
 Last edited: 4/26/2018
 Version 0.0.1
 Purpose: The purpose of this program is to connect the gui built by Zac Everett called infogui and the ufr caller built by Kevin Lukitsch. 
-This program is a driver program as it calles methods from both and drives the program forward. It also handles exceptions for the program.
+This program is a driver program as it calls methods from both and drives the program forward. It also handles exceptions for the program.
 */
 package ufrdriver;
 
